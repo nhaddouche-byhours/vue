@@ -4,7 +4,7 @@
       <div class="container">
         <h1 class="logo-font">By Hours</h1>
         <p>Tu Naoufal ererg favorito desde 3 horas.</p>
-        <p> Más de 3.000 hoteleserfgerger, ahora por horas.</p>
+        <p> Más de 3.000 hoteleserfgeefewfrger, ahora por horas.</p>
       </div>
     </div>
     <div class="container page">
