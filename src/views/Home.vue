@@ -3,7 +3,7 @@
     <div class="banner">
       <div class="container">
         <h1 class="logo-font">By Hours</h1>
-        <p>Tu Naoufal favorito desde 3 horas.</p>
+        <p>Tu Naoufal ererg favorito desde 3 horas.</p>
         <p> Más de 3.000 hoteles, ahora por horas.</p>
       </div>
     </div>
