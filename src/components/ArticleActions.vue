@@ -7,7 +7,7 @@
     <span>&nbsp;&nbsp;</span>
     <b-button variant="primary" @click="toggleFollow"> Primary</b-button>
     <button class="btn btn-outline-danger btn-sm" @click="deleteArticle">
-      <i class="ion-trash-a"></i> <span>&nbsp;Delete Article </span>
+      <i class="ion-trash-a"></i> <span>&nbsp;Delete Article ergergerg</span>
     </button>
   </span>
   <!-- Used in ArticleView when not author -->
