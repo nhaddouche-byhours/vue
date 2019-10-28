@@ -3,13 +3,12 @@
     <div class="banner">
       <div class="container">
         <h1 class="logo-font">By Hours</h1>
-        <p>Tu hotel favorito desde 3 horas.</p>
-        <p> Más de 3.000 hoteles, ahora por horas.</p>
+        <p>Tu Naoufal ererg favorito desde 3 horas.</p>
+        <p> Más de 3.000 hoteleserfgerger, ahora por horas.</p>
       </div>
     </div>
     <div class="container page">
-      <div class="row".json
-
+      <div class="row">
         <div class="col-md-9">
           <div class="feed-toggle">
             <ul class="nav nav-pills outline-active">
