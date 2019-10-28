@@ -2,7 +2,7 @@
   <!-- Used when user is also author -->
   <span v-if="canModify">
     <router-link class="btn btn-sm btn-outline-secondary" :to="editArticleLink">
-      <i class="ion-edit"></i> <span>&nbsp;Edit Article</span>
+      <i class="ion-edit"></i> <span>&nbsp;Edit Article text</span>
     </router-link>
     <span>&nbsp;&nbsp;</span>
     <b-button variant="primary" @click="toggleFollow"> Primary</b-button>
