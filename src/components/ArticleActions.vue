@@ -12,7 +12,7 @@
   </span>
   <!-- Used in ArticleView when not author -->
   <span v-else>
-    <b-button variant="primary" @click="toggleFollow">Primary</b-button>
+    <b-button variant="primary" @click="toggleFollow">Primartrgrtgerty</b-button>
     <button class="btn btn-sm btn-outline-secondary" @click="toggleFollow">
       <i class="ion-plus-round"></i> <span>&nbsp;</span>
       <span v-text="followUserLabel" />
