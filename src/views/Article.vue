@@ -22,7 +22,7 @@
       </div>
       <hr />
       <div class="article-actions">
-        <RwvArticleMeta :article="article" :actions="true">test</RwvArticleMeta>
+        <RwvArticleMeta :article="article" :actions="true">testfrgrgrg</RwvArticleMeta>
       </div>
       <div class="row">
         <div class="col-xs-12 col-md-8 offset-md-2">
