@@ -79,6 +79,19 @@
             {{ currentUser.username }}
           </router-link>
         </li>
+        <li class="nav-item" >
+          <router-link
+            class="nav-link"
+            active-class="active"
+            exact
+            :to="{
+              name: 'information',
+              params: { username: currentUser.username }
+            }"
+          >
+            Information
+          </router-link>
+        </li>
       </ul>
     </div>
   </nav>
